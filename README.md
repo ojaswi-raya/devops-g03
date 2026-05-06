@@ -4,11 +4,11 @@ First project of the DevOps Course.
 
 ## Structure
 
--'index.html'-main page 
+-`index.html`-main page 
 
 ## Run the project 
 
-Open 'index.html'in a browser.
+Open `index.html`in a browser.
 
 ## Author 
 
